@@ -9,7 +9,7 @@ This project is a 3x3 matrix and when we click on any box it turns into green co
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Edxso-ass.git
+git clone git remote add origin https://github.com/Lucky12-call/edxso_ass_MERN.git
 ```
 
 2. Navigate to the project directory:
